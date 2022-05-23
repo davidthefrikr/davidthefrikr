@@ -1,6 +1,5 @@
 - 👋 hey, i’m @davidthefrikr
 - i be the funny vr gaming man and programmer
-- 🌱 i’m currently learning Java and C#, JavaScript is mainly what i'm good at
 - 📫 i'm available on Discord at davidthefrikr#8371
 
 <!---
