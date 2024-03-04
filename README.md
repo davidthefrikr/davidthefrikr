@@ -1,6 +1,4 @@
-- 👋 hey, i’m @davidthefrikr
-- we ball
-- 📫 i'm available on Discord at davidthefrikr#8371
+- 👋 hey guys
 
 <!---
 davidthefrikr/davidthefrikr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
